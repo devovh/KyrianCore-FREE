@@ -2,6 +2,8 @@ Kyrian Source based off Thordekk
 Forked and Leaked by subsix
 --------------
 
+# Download Database:
+https://mega.nz/file/8ZFDjSAC#7vi_YnxuZe8OWePQgbJxuAJ10CpGQkp0d0ZmAnJ_tsU
 
 * [Copyright](#copyright)
 
